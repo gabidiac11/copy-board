@@ -10,8 +10,8 @@ window.copyData = [
         content: "Dev paths ",
       },
       {
-        type: "text",
-        content: "\\exemple\\exemple\\etc ",
+        type: "link",
+        content: "https://react-bootstrap.github.io/components/navs/",
       },
       {
         type: "text",
