@@ -246,6 +246,10 @@ export default function App() {
     return jsDocResult.mainJdocString;
   }
 
+  /**
+   * schimbari din main destinate pentru alt branch
+   */
+
   return (
     <div className="App">
       <Card className="header-content">
