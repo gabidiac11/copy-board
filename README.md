@@ -1,5 +1,5 @@
 # Copy board
 
-### To implement
+### To implement:
 - configuration file editor 
 - json to jdoc (deep)
